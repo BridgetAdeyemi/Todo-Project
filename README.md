@@ -22,6 +22,6 @@ DOM Manipulation: The project dynamically updates the task list based on user in
 Event Handling: User interactions such as adding, deleting, and marking tasks are handled seamlessly through JavaScript event listeners.
 Filtering Functionality: The tasks can be filtered based on their completion status, offering an easy way to manage tasks.
 
-LOVE DEMO
+LIVE DEMO
 
 Checkout the live version of the project here  https://bridgetadeyemi.github.io/Todo-Project/
