@@ -125,3 +125,13 @@ select {
   color: forestgreen;
   background-color: white;
 }
+@media (max-width: 768px) {
+  .todo-input {
+    width: 30%;
+  }
+}
+@media (max-width: 320px) {
+  .todo-input {
+    width: 20%;
+  }
+}
